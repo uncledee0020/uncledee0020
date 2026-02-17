@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uncledee0020
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m a Java API Developer.
+- 🌱 I’m both a Software Engineer amd a DevOps Engineer.
 - 💞️ I’m looking to collaborate on similar projects to my area of expertise.
 - 📫 Reach me at uncledee0020@gmail.com
 
